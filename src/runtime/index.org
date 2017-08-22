@@ -1,0 +1,16 @@
+#+TITLE: The implementation of VLABS landing pages
+#+AUTHOR: VLEAD
+#+DATE: [2017-08-22 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  The implementation of vlabs landing pages is realized
+  here. 
+
+* Landing Page
+  The landing page is split into three iframes - header,
+  content and footer.  The content frame is where the
+  content of 

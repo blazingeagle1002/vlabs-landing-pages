@@ -28,4 +28,7 @@
 ** Requirement 3
    Build a search facility for the labs. 
 
+** Requirement 4
+   Build a footer service
+
    

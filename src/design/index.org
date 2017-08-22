@@ -22,7 +22,8 @@
   1) Header Iframe 
   2) Content Iframe
   3) Footer Iframe
-** Header Iframe 
+** Header Iframe
+   Holds the header of vlabs landing pages. 
 ** Body Iframe
    When the state changes, all the user actions will be loaded into the body Iframe. 
 ** Footer Iframe
